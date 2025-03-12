@@ -1,0 +1,7 @@
+D:\piu\Gestiune mercerie\Gestiune mercerie\bin\Debug\GestiuneMercerie.exe.config
+D:\piu\Gestiune mercerie\Gestiune mercerie\bin\Debug\GestiuneMercerie.exe
+D:\piu\Gestiune mercerie\Gestiune mercerie\bin\Debug\GestiuneMercerie.pdb
+D:\piu\Gestiune mercerie\Gestiune mercerie\obj\Debug\GestiuneMercerie.csproj.AssemblyReference.cache
+D:\piu\Gestiune mercerie\Gestiune mercerie\obj\Debug\GestiuneMercerie.csproj.CoreCompileInputs.cache
+D:\piu\Gestiune mercerie\Gestiune mercerie\obj\Debug\GestiuneMercerie.exe
+D:\piu\Gestiune mercerie\Gestiune mercerie\obj\Debug\GestiuneMercerie.pdb
