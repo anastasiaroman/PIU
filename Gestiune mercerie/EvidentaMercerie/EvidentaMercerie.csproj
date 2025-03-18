@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C26A0B54-9102-425B-9A3C-EDF15716A28E}</ProjectGuid>
+    <ProjectGuid>{D4E42FBB-0D03-422A-8008-F1C8A452D62A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GestiuneMercerie</RootNamespace>
-    <AssemblyName>GestiuneMercerie</AssemblyName>
+    <RootNamespace>EvidentaMercerie</RootNamespace>
+    <AssemblyName>EvidentaMercerie</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Produse.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Stoc.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

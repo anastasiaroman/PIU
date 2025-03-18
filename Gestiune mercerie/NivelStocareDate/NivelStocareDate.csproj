@@ -42,9 +42,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdministrareClienti.cs" />
+    <Compile Include="AdministrareClienti_FisierText.cs" />
     <Compile Include="AdministrareProduse.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="AdministrareProduse_FisierText.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EvidentaMercerie\EvidentaMercerie.csproj">
+      <Project>{d4e42fbb-0d03-422a-8008-f1c8a452d62a}</Project>
+      <Name>EvidentaMercerie</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Gestiune mercerie\GestiuneMercerie.csproj">
+      <Project>{c26a0b54-9102-425b-9a3c-edf15716a28e}</Project>
+      <Name>GestiuneMercerie</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

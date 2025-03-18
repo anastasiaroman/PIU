@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestiuneMercerie", "GestiuneMercerie.csproj", "{C26A0B54-9102-425B-9A3C-EDF15716A28E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NivelStocareDate", "..\NivelStocareDate\NivelStocareDate.csproj", "{17D8135E-0FA0-40B4-8E5E-D35CB1962802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvidentaMercerie", "..\EvidentaMercerie\EvidentaMercerie.csproj", "{D4E42FBB-0D03-422A-8008-F1C8A452D62A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{17D8135E-0FA0-40B4-8E5E-D35CB1962802}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D8135E-0FA0-40B4-8E5E-D35CB1962802}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D8135E-0FA0-40B4-8E5E-D35CB1962802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E42FBB-0D03-422A-8008-F1C8A452D62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E42FBB-0D03-422A-8008-F1C8A452D62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E42FBB-0D03-422A-8008-F1C8A452D62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E42FBB-0D03-422A-8008-F1C8A452D62A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
